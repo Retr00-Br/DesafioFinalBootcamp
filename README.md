@@ -8,7 +8,7 @@ Proposta de arquitetura serverless na AWS para transformação de acervo documen
 
 * **Nome:** Pedro Barbosa de Andrade
 * **Data:** 11/10/2026
-* **Link do repositório:** https://github.com/pedro-andrade/laboratorio-wiki-aws
+* **Link do repositório:** https://github.com/pedro-andrade/laboratorio-wiki-aws](https://github.com/Retr00-Br/DesafioFinalBootcamp
 
 ---
 
