@@ -178,6 +178,7 @@ Arquitetura Serverless e acoplada por eventos (*Event-Driven Architecture*) que 
 
 ### 4. Diagrama textual da arquitetura
 
+```text
 [Arquivos raw/ (PDF/PNG/CSV)] 
        │
        ▼
